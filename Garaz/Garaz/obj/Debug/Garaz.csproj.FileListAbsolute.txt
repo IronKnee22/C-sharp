@@ -1,0 +1,8 @@
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\bin\Debug\Garaz.exe.config
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\bin\Debug\Garaz.exe
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\bin\Debug\Garaz.pdb
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\obj\Debug\Garaz.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\obj\Debug\Garaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\obj\Debug\Garaz.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\obj\Debug\Garaz.exe
+C:\Users\marek\Documents\C-sharp\Garaz\Garaz\obj\Debug\Garaz.pdb
