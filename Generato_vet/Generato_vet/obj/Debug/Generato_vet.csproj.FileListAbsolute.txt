@@ -1,0 +1,8 @@
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\bin\Debug\Generato_vet.exe.config
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\bin\Debug\Generato_vet.exe
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\bin\Debug\Generato_vet.pdb
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\obj\Debug\Generato_vet.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\obj\Debug\Generato_vet.csproj.SuggestedBindingRedirects.cache
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\obj\Debug\Generato_vet.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\obj\Debug\Generato_vet.exe
+C:\Users\marek\Documents\C-sharp\Generato_vet\Generato_vet\obj\Debug\Generato_vet.pdb
