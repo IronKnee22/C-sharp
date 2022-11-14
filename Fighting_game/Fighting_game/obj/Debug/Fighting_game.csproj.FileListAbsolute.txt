@@ -6,3 +6,11 @@ C:\Users\marek\Documents\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_
 C:\Users\marek\Documents\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.csproj.CoreCompileInputs.cache
 C:\Users\marek\Documents\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.exe
 C:\Users\marek\Documents\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.pdb
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\bin\Debug\Fighting_game.exe.config
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\bin\Debug\Fighting_game.exe
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\bin\Debug\Fighting_game.pdb
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.exe
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Fighting_game\Fighting_game\obj\Debug\Fighting_game.pdb
