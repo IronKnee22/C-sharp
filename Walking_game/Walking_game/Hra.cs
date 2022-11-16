@@ -35,7 +35,6 @@ namespace Walking_game
             les4.vychod = dum;
             dum.zapad = les4;
 
-
             AktualniLokace = dum;
         }
 
