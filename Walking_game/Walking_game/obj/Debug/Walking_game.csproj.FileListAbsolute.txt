@@ -1,0 +1,8 @@
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\bin\Debug\Walking_game.exe.config
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\bin\Debug\Walking_game.exe
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\bin\Debug\Walking_game.pdb
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\obj\Debug\Walking_game.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\obj\Debug\Walking_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\obj\Debug\Walking_game.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\obj\Debug\Walking_game.exe
+C:\Users\marek\Documents\C-sharp\Walking_game\Walking_game\obj\Debug\Walking_game.pdb
