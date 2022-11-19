@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\bin\Debug\Family_tree.exe.config
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\bin\Debug\Family_tree.exe
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\bin\Debug\Family_tree.pdb
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\obj\Debug\Family_tree.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\obj\Debug\Family_tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\obj\Debug\Family_tree.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\obj\Debug\Family_tree.exe
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\Family_tree\Family_tree\obj\Debug\Family_tree.pdb
