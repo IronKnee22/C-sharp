@@ -1,0 +1,8 @@
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\bin\Debug\Friday_13th.exe.config
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\bin\Debug\Friday_13th.exe
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\bin\Debug\Friday_13th.pdb
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\obj\Debug\Friday_13th.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\obj\Debug\Friday_13th.csproj.SuggestedBindingRedirects.cache
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\obj\Debug\Friday_13th.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\obj\Debug\Friday_13th.exe
+C:\Users\marek\Documents\C-sharp\Friday_13th\Friday_13th\obj\Debug\Friday_13th.pdb
