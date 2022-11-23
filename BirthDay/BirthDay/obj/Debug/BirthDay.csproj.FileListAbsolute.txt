@@ -1,0 +1,8 @@
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\bin\Debug\BirthDay.exe.config
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\bin\Debug\BirthDay.exe
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\bin\Debug\BirthDay.pdb
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\obj\Debug\BirthDay.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\obj\Debug\BirthDay.csproj.SuggestedBindingRedirects.cache
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\obj\Debug\BirthDay.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\obj\Debug\BirthDay.exe
+C:\Users\marek\Documents\C-sharp\BirthDay\BirthDay\obj\Debug\BirthDay.pdb
