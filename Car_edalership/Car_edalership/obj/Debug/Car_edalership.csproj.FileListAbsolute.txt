@@ -1,0 +1,8 @@
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\bin\Debug\Car_edalership.exe.config
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\bin\Debug\Car_edalership.exe
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\bin\Debug\Car_edalership.pdb
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\obj\Debug\Car_edalership.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\obj\Debug\Car_edalership.csproj.SuggestedBindingRedirects.cache
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\obj\Debug\Car_edalership.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\obj\Debug\Car_edalership.exe
+C:\Users\marek\Documents\C-sharp\Car_edalership\Car_edalership\obj\Debug\Car_edalership.pdb
