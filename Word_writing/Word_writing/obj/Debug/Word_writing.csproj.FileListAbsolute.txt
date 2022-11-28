@@ -1,0 +1,8 @@
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\bin\Debug\Word_writing.exe.config
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\bin\Debug\Word_writing.exe
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\bin\Debug\Word_writing.pdb
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\obj\Debug\Word_writing.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\obj\Debug\Word_writing.csproj.SuggestedBindingRedirects.cache
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\obj\Debug\Word_writing.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\obj\Debug\Word_writing.exe
+C:\Users\marek\Documents\C-sharp\Word_writing\Word_writing\obj\Debug\Word_writing.pdb
