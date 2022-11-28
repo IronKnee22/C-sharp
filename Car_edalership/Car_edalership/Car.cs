@@ -8,8 +8,8 @@ namespace Car_edalership
 {
     internal class Car
     {
-        protected string znacka;
-        protected int cena;
+        public string znacka { get; set; }
+        public int cena { get; set; }
 
         public Car(string znacka, int cena)
         {
@@ -17,10 +17,6 @@ namespace Car_edalership
             this.cena = cena;
         }
 
-        public virtual int GetCena()
-        { 
-          return cena;
-        }
 
         public override string ToString()
         {

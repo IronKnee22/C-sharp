@@ -30,6 +30,10 @@ namespace Car_edalership
 
             dealership.Prodej(Auta[2]);
 
+            Car car = new Car("a", 1);
+            car.cena = 20;
+
+
 
             Console.WriteLine(dealership);
 

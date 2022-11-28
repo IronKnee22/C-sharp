@@ -13,13 +13,13 @@ namespace Car_edalership
         List<Car> voz_park = new List<Car>();
         public void Nakup(Car car)
         {
-            pokladna -= car.GetCena();
+            pokladna -= car.cena;
             voz_park.Add(car);
         }
 
         public void Prodej(Car car)
         {
-            pokladna += car.GetCena();
+            pokladna += car.cena;
             voz_park.Remove(car);
         }
 

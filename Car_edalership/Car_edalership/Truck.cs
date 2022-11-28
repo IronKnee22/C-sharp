@@ -9,7 +9,7 @@ namespace Car_edalership
     internal class Truck:Car
     {
         
-        int nostnost;
+        public int nostnost { get; set; }
 
 
 
@@ -20,10 +20,6 @@ namespace Car_edalership
             this.znacka = znacka;
         }
 
-        public override int GetCena()
-        {
-            return base.GetCena();
-        }
 
         public override string ToString()
         {
