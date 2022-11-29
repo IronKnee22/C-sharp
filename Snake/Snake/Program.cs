@@ -8,6 +8,8 @@ namespace Snake
 {
     internal class Program
     {
+        //TODO: Posouvání hada
+        //TODO: Vykreslední Jídla
         static void Main(string[] args)
         {
             Snake_C snake_C = new Snake_C();
