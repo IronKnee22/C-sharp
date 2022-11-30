@@ -11,6 +11,7 @@ namespace Snake
         public int X { get; set; }
         public int Y { get; set; }
         public ConsoleColor barva { get; set; }
+        public bool Nazivu=true;
 
         public Body(int x, int y, ConsoleColor barva)
         {
@@ -21,10 +22,31 @@ namespace Snake
 
         public void Telo_Vykresli()
         {
-            Console.CursorLeft = X * 2;
-            Console.CursorTop = Y;
-            Console.ForegroundColor = barva;
-            Console.Write("██");
+
+
+
+            try
+            {
+                Console.CursorLeft = X * 2;
+            }
+            catch
+            {
+                Nazivu = false;
+            }
+
+            if(Console.CursorTop == 29 || Console.CursorTop == 1)
+            {
+                Nazivu = false;
+            }
+            else
+            {
+                Console.CursorTop = Y;
+            }
+                Console.CursorTop = Y;
+                Console.ForegroundColor = barva;
+                Console.Write("██");
+            
+            
         }
     }
 }

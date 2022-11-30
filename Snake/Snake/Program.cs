@@ -9,24 +9,26 @@ namespace Snake
 {
     internal class Program
     {
-        //TODO: Hlidani vyjetí z obrazovky
+        
         //TODO: Vykreslední Jídla
+        //TODO: Zvetšení hada po tom co se nají
         static void Main(string[] args)
         {
             Snake_C snake_C = new Snake_C();
             snake_C.Had();
 
+
             //snake_C.Had_Vykresli();
 
 
-            while (true)
+            do
             {
                 snake_C.Had_Posun();
                 snake_C.Had_Vykresli();
                 Thread.Sleep(50);
                 if (Console.KeyAvailable)
                 {
-                    ConsoleKeyInfo klavesa = Console.ReadKey(); 
+                    ConsoleKeyInfo klavesa = Console.ReadKey();
 
                     if (klavesa.Key == ConsoleKey.RightArrow)
                         snake_C.Smer = 0;
@@ -38,10 +40,13 @@ namespace Snake
                         snake_C.Smer = 90;
                 }
                 Console.Clear();
-            }
+            } while (snake_C.Nazivu);
 
 
-
+            Console.Clear();
+            Console.CursorLeft = 57;
+            Console.CursorTop = 15;
+            Console.WriteLine("Game over");
 
 
             Console.ReadKey();

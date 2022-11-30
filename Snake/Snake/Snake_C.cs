@@ -12,6 +12,7 @@ namespace Snake
         List<Body> body = new List<Body>();
         public ConsoleColor barva = ConsoleColor.Green;
         public int Smer { get; set; }
+        public bool Nazivu;
 
         public void Had()
         {
@@ -27,6 +28,7 @@ namespace Snake
             foreach(Body bod in body)
             {
                 bod.Telo_Vykresli();
+                Nazivu = bod.Nazivu;
             }
         }
 
