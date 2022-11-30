@@ -24,11 +24,11 @@ namespace Snake
             do
             {
                 //Console.WriteLine(snake_C.jidlo_X + " " + snake_C.jidlo_Y);
-                Console.WriteLine("Hlava: "+snake_C.hlavaX + " " + snake_C.hlavaY);  //ověření pozic
+                //Console.WriteLine("Hlava: "+snake_C.hlavaX + " " + snake_C.hlavaY);  //ověření pozic
                 snake_C.Had_Posun();
                 snake_C.Had_Vykresli();
                 
-                Thread.Sleep(1000);
+                Thread.Sleep(100);
                 if (Console.KeyAvailable)
                 {
                     ConsoleKeyInfo klavesa = Console.ReadKey();

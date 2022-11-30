@@ -41,14 +41,7 @@ namespace Snake
 
         public void Had_Posun()
         {
-            foreach (Body bod in body) //kolize s vlastním tělem
-            {
-                Console.WriteLine(bod.X + " " + bod.Y);
-                //if (novaHlava.X == bod.X && novaHlava.Y == bod.Y)
-                //{
-                //    Nazivu = false;
-                //}                    
-            }
+            
             Body novaHlava = new Body(body[0].X, body[0].Y, barva);
 
             if(Smer == 0)
@@ -67,18 +60,25 @@ namespace Snake
             {
                 novaHlava.Y--;
             }
-
-
             
+
+
             hlavaX = novaHlava.X;
             hlavaY = novaHlava.Y;
             body.Insert(0, novaHlava);
+
             body.Remove(body[body.Count-1]);
             jidlo();
 
-            
+            for (int i = 1; i < body.Count; i++)
+            {
+                if (!body[0].Kolize(body[i]))
+                    Nazivu = false;
+            }
 
-            if(novaHlava.X == jidlo_X && novaHlava.Y == jidlo_Y)
+
+
+            if (novaHlava.X == jidlo_X && novaHlava.Y == jidlo_Y)
             {
                 Body novyOcas = new Body(body[0].X, body[0].Y, barva);
                 novyOcas.X = jidlo_X;

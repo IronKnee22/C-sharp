@@ -44,11 +44,12 @@ namespace Snake
             }
                 Console.CursorTop = Y;
                 Console.ForegroundColor = barva;
-                Console.Write("██");
+                Console.Write("██");                        
+        }
 
-
-            
-            
+        public bool Kolize(Body kostka)
+        {
+            return (X == kostka.X && Y == kostka.Y);
         }
     }
 }
