@@ -9,9 +9,9 @@ namespace Snake
 {
     internal class Program
     {
-        
-        //TODO: Vykreslední Jídla
-        //TODO: Zvetšení hada po tom co se nají
+
+        //TODO: Smrt pokud had narazí sám do sebe
+        // kolize je dělána v Snake_C ale nějak to vůbec nereaguje na změnu hlavy
         static void Main(string[] args)
         {
             Snake_C snake_C = new Snake_C();
@@ -23,9 +23,12 @@ namespace Snake
 
             do
             {
+                //Console.WriteLine(snake_C.jidlo_X + " " + snake_C.jidlo_Y);
+                Console.WriteLine("Hlava: "+snake_C.hlavaX + " " + snake_C.hlavaY);  //ověření pozic
                 snake_C.Had_Posun();
                 snake_C.Had_Vykresli();
-                Thread.Sleep(50);
+                
+                Thread.Sleep(1000);
                 if (Console.KeyAvailable)
                 {
                     ConsoleKeyInfo klavesa = Console.ReadKey();

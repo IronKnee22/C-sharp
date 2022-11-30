@@ -45,6 +45,8 @@ namespace Snake
                 Console.CursorTop = Y;
                 Console.ForegroundColor = barva;
                 Console.Write("██");
+
+
             
             
         }
