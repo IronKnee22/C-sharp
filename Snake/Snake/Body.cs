@@ -47,9 +47,6 @@ namespace Snake
                 Console.Write("██");                        
         }
 
-        public bool Kolize(Body kostka)
-        {
-            return (X == kostka.X && Y == kostka.Y);
-        }
+        
     }
 }

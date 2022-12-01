@@ -70,11 +70,7 @@ namespace Snake
             body.Remove(body[body.Count-1]);
             jidlo();
 
-            for (int i = 1; i < body.Count; i++)
-            {
-                if (!body[0].Kolize(body[i]))
-                    Nazivu = false;
-            }
+            
 
 
 
