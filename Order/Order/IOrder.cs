@@ -28,22 +28,12 @@ namespace Order
         /// <summary>
         /// Registry number
         /// </summary>
-        int RegistryNumber { get; }
-        /// <summary>
-        /// City
-        /// </summary>
+        
         string City { get; }
         /// <summary>
         /// Zip code
         /// </summary>
-        string Zip { get; }
-        /// <summary>
-        /// Country
-        /// </summary>
-        string Country { get; }
-        /// <summary>
-        /// Product names
-        /// </summary>
+        
         string[] Products { get; }
         /// <summary>
         /// Product quantities
@@ -52,6 +42,6 @@ namespace Order
         /// <summary>
         /// Product prices
         /// </summary>
-        double[] Prices { get; }
+        int[] Prices { get; }
     }
 }

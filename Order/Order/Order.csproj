@@ -46,7 +46,9 @@
     <Compile Include="Adress.cs" />
     <Compile Include="COder.cs" />
     <Compile Include="Customer.cs" />
+    <Compile Include="Gateway.cs" />
     <Compile Include="IOrder.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
