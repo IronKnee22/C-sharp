@@ -1,0 +1,33 @@
+﻿<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">Seznam úkolů</h4>
+    </div>
+    <div class="card-body">
+        @if (Todos.Count == 0)
+        {
+                <span>Seznam je prázdný ...</span>
+        }
+        else
+        {
+            foreach (var todo in Todos)
+            {
+                        <TodoItem Text="@todo.Text" Done="@todo.Done" />
+            }
+        }
+    </div>
+    <NewItemEntry OnNewItem="@OnNewItem"/>
+
+
+</div>
+
+@code {
+    [Parameter]
+    public IList<Todo> Todos { get; set; } = new List<Todo>();
+
+    void OnNewItem(string text)
+    {
+        Todos.Add(new Todo() { Text = text });
+    }
+
+    
+}

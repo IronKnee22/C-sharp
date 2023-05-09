@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\bin\Debug\net7.0\zkouska.exe
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\bin\Debug\net7.0\zkouska.deps.json
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\bin\Debug\net7.0\zkouska.runtimeconfig.json
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\bin\Debug\net7.0\zkouska.dll
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\bin\Debug\net7.0\zkouska.pdb
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.AssemblyInfo.cs
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.dll
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\refint\zkouska.dll
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.pdb
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\zkouska.genruntimeconfig.cache
+C:\Users\PC\Documents\Programovaní\c#\C-sharp\zkouska\obj\Debug\net7.0\ref\zkouska.dll

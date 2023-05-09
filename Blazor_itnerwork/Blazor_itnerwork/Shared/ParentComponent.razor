@@ -1,0 +1,9 @@
+﻿<h3 style="@MyStyle">ParentComponent</h3>
+<hr />
+<ChildComponent/>
+
+@code {
+    [CascadingParameter(Name = "style1")]
+    public string MyStyle { get; set; }
+    
+}

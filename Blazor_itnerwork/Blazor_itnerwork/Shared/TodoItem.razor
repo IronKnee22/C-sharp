@@ -1,0 +1,13 @@
+﻿<div>
+    <input type="checkbox" @bind="@Done"/>
+    <span class="@textStyle">@Text</span>
+</div>
+
+@code {
+    [Parameter]
+    public string Text { get; set; } = "Naučit se Blazor na ITnetwork";
+    [Parameter]
+    public bool Done { get; set; } = false;
+
+    string textStyle => Done ? "done" : "";
+}

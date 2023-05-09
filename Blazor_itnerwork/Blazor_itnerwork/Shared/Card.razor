@@ -1,0 +1,41 @@
+﻿<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">@Title</h4>
+    </div>
+    <div class="card-body">
+        @ChildContent
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">@Title</h4>
+    </div>
+    <div class="card-body">
+        @Body
+    </div>
+    @if (Footer != null)
+    {
+            <div class="card-footer">
+            @Footer
+            </div>
+    }
+</div>
+
+
+
+@code {
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public RenderFragment Body { get; set; }
+
+    [Parameter]
+    public RenderFragment Footer { get; set; }
+
+
+}

@@ -1,0 +1,38 @@
+﻿@page "/converter"
+<h3>Convert</h3>
+
+<label>Palce</label>
+<input type="number" @bind="Palce" @bind:event="oninput" />
+<span> = </span>
+<input type="number" @bind="Centimetry" @bind:event="oninput" />
+<label>Centimetry</label>
+
+
+@code {
+    double palce = 1;
+
+    public double Palce
+    {
+        get => palce;
+        set
+        {
+            centimetry = value * 2.54;
+            palce = value;
+        }
+    }
+
+
+    double centimetry = 2.54;
+
+    public double Centimetry
+    {
+        get => centimetry;
+        set
+        {
+            palce = value / 2.54;
+            centimetry = value;
+        }
+    }
+
+    
+}

@@ -1,0 +1,21 @@
+﻿@page "/"
+<h3>Cascading Example</h3>
+<button @onclick="ChangeStyle">Change style</button>
+<hr />
+<CascadingValue Value=@("color:red") Name="style1" IsFixed="true">
+    <CascadingValue Value=@style Name="style2">
+        <ParentComponent />
+    </CascadingValue>
+</CascadingValue>
+
+
+@code {
+    private string style = "color:red";
+
+    private void ChangeStyle()
+    {
+        style = "color:blue";
+    }
+}
+
+
