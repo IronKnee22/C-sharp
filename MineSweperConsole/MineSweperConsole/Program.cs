@@ -9,7 +9,7 @@
             int SouradniceY;
 
 
-            while (true)
+            do
             {
                 Console.SetCursorPosition(0, 7);
                 {
@@ -17,10 +17,11 @@
                     SouradniceX = int.Parse(Console.ReadLine());
 
                     Console.Write("Zadej číselné Y: ");
-                    SouradniceY = int.Parse(Console.ReadLine());                
+                    SouradniceY = int.Parse(Console.ReadLine());
                 }//načítaní souřadnic pro použití
                 hra.ObsahujeBombu(SouradniceX, SouradniceY);
-            }
+            } while (hra.hra);
+            Console.WriteLine("Gamer Over");
 
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\Programovaní\\c#\\Opakovani\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj": {}
+    "C:\\Users\\PC\\Documents\\Programovaní\\c#\\C-sharp\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\Programovaní\\c#\\Opakovani\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj": {
+    "C:\\Users\\PC\\Documents\\Programovaní\\c#\\C-sharp\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\Programovaní\\c#\\Opakovani\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\Programovaní\\c#\\C-sharp\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj",
         "projectName": "MineSweperConsole",
-        "projectPath": "C:\\Users\\PC\\Documents\\Programovaní\\c#\\Opakovani\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\Programovaní\\c#\\C-sharp\\MineSweperConsole\\MineSweperConsole\\MineSweperConsole.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\Programovaní\\c#\\Opakovani\\MineSweperConsole\\MineSweperConsole\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\Programovaní\\c#\\C-sharp\\MineSweperConsole\\MineSweperConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

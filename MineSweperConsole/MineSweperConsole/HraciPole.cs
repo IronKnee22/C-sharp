@@ -13,6 +13,7 @@ namespace MineSweperConsole
 
         public bool Bomba { get; set; }
         public string Vykresleni { get; } = "#";
+        public int BombOkolo { get; set; } = 0;
 
         public HraciPole(int X, int Y, bool Bomba) 
         {
